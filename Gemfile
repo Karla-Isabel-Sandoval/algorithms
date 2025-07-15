@@ -4,6 +4,6 @@ gemspec
 
 group :development do
     gem "rspec"
-    gem "rake-compiler"
+    gem "rake-compiler", ">= 0.9.4"
 end
 
